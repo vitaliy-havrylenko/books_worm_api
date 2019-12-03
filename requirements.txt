@@ -1,0 +1,7 @@
+djangorestframework==3.10.3
+Django==2.2.7
+django-phonenumber-field==3.0.1
+django-rest-framework==0.1.0
+django-versatileimagefield==1.11
+phonenumbers==8.10.22
+psycopg2==2.8.4
